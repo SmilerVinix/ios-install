@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array/>
+  <key>PayloadDisplayName</key>
+  <string>iOS Install Profile</string>
+  <key>PayloadIdentifier</key>
+  <string>com.smiler.installprofile</string>
+  <key>PayloadOrganization</key>
+  <string>Smiler</string>
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>8E4A3F0D-ABCD-4C9E-9E11-123456789ABC</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>
